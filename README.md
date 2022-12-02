@@ -11,7 +11,7 @@ See: https://github.com/prasmussen/gdrive
 
 2. Download the `gdrive` script as a Unix executable!
 
-3. Set a CRON job to run the script every day or so
+3. Download backup.sh and set a CRON job to run the script every day or so
 
 4. You can delete the old backups if you run out of space on Google Drive.
 
